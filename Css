@@ -1,9 +1,9 @@
 body{
-    background-color: black;
-    color:rgb(255, 255, 255);
+    background-color:rgb(146, 235, 151);
+    color:black;
     font-family: sans-serif;
-    max-width: 1200px;
-    margin: 6%;
+    max-width: 1400px;
+    margin: 8%;
     padding: 20px;
 }
 
@@ -29,7 +29,7 @@ a{
 }
 
 a:hover{
-    color: blueviolet
+    color: rgb(13, 43, 177)
 }
 
 p{
@@ -48,17 +48,17 @@ input{
 }
 
 .Nome{
-    border-color:blueviolet
+    border-color:rgb(5, 123, 153)
 }
 
 .E-mail{
-    border-color: blueviolet
+    border-color: #037585
 }
 
 .Enviar{
-    border-color: blueviolet;
+    border-color: rgb(1, 101, 114);
     cursor: pointer;
-    background-color: blueviolet;
+    background-color: rgb(1, 102, 105);
     height: 50%;
     width: 50%;
     font-family: sans-serif
